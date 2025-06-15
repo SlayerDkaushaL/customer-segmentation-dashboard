@@ -2,8 +2,6 @@
 # coding: utf-8
 
 
-pip install --upgrade dash
-
 
 # In[2]:
 
